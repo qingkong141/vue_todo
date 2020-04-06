@@ -8,6 +8,4 @@ new Vue({
     },
     template:'<App/>'
 })
-const arr= [1,2,3].map(v=> v+1)
-console.log(arr)
 //2. 挂在app组件

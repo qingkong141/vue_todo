@@ -8,7 +8,7 @@
   "editor.wordWrap": "on",
   "vsicons.dontShowNewVersionMessage": true,
   "editor.cursorStyle": "line", //光标为细竖线
-  "editor.tabSize": 2,  //缩进2个空格
+  "editor.tabSize": 4,  //缩进2个空格
   "vetur.format.defaultFormatterOptions": {
       "prettier": {
         "semi": false, //去掉末尾分号

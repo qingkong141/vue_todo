@@ -6,4 +6,7 @@ body {
     background-image: url('../imgs/yuanban.png') ;
     background-repeat: no-repeat;
     background-size: 100%;
+    background-color: #ffffff;
+    font-size: 14px 'microsofr yehei';
+    font-weight: 300;
 }
