@@ -2,7 +2,10 @@
     <div>todoList</div>
 </template>
 <script>
+import './assstes/styles/test.css'
 export default {
-    name:'App'
+    name:'App',
+    created() {
+    }
 }
 </script>
